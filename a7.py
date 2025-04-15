@@ -1,3 +1,4 @@
+#Tyler Sanchez and Anthony Loeza
 import math, os, pickle, re, string
 from typing import Tuple, List, Dict
 
