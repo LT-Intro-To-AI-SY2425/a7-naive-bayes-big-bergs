@@ -1,4 +1,4 @@
-#Tyler Sanchez and Anthony Loeza
+#Big Bergs (Tyler Sanchez and Anthony Loeza)
 import math, os, pickle, re
 from typing import Tuple, List, Dict
 
